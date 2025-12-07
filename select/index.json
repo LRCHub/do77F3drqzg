@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "カイコ",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-07T07:24:42.223228Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カイコ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_カイコ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カイコ - Kaiko",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_カイコ_-_Kaiko_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カイコ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_カイコ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DECO*27 - カイコ feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/04_DECO_27_-_カイコ_feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カイコ - Stuckmoth",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_カイコ_-_Stuckmoth_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カイコ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/06_カイコ_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カイコ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_カイコ_DECO_27.txt"
+    }
+  ]
+}
